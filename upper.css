@@ -1,0 +1,63 @@
+
+.back {
+
+	background-image: url("https://cdn.proptiger.com/guide/images/banner/buyers.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height : 300px;
+	width: 100%;
+	text-align: center;
+	position: relative;
+}
+.nav ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-family: Helvetica;
+    text-align: center;
+}
+.nav li{
+	display: inline;
+	font-family: Helvetica;
+
+}
+.nav li:hover{
+	border-bottom: 2px solid #c98436;
+}
+.nav li a{
+
+	text-decoration: inherit;
+	color: inherit;
+}
+.sec ul{
+	font-family: Lato;
+}
+.sec li {
+	font-family: Lato;
+}
+.sec li:hover{
+	color:#c98436;
+}
+.maintxt{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: white;
+	font-size: 60px;
+	font-family: Helvetica;
+	transform: translate(-50%,-50%);
+
+}
+
+#sec2 {
+	margin-top: 150px;
+}
+
+#sec3 {
+	margin-top: 150px;
+}
+
+#sec4 {
+	margin-top: 150px;
+}
